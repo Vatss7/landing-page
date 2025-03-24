@@ -16,7 +16,7 @@ const HeroSection = () => {
         intuitive development tools. Get started today and turn your imagination
         into immersive reality!
       </p>
-      <div className="flex justify-center my-10">
+      <div className="flex justify-center items-center my-10">
         <a
           href="#"
           className="bg-gradient-to-r from-orange-500 to-red-800 py-3 px-4 rounded-md mx-4"
